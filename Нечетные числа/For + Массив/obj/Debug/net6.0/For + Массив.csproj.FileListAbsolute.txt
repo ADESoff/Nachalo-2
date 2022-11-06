@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\For + Массив\For + Массив\obj\Debug\net6.0\For + Массив.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\For + Массив\For + Массив\obj\Debug\net6.0\For + Массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\For + Массив\For + Массив\obj\Debug\net6.0\For + Массив.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\For + Массив\For + Массив\obj\Debug\net6.0\For + Массив.AssemblyInfo.cs
+C:\Users\Admin\source\repos\For + Массив\For + Массив\obj\Debug\net6.0\For + Массив.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\For + Массив\For + Массив\bin\Debug\net6.0\For + Массив.exe
+C:\Users\Admin\source\repos\For + Массив\For + Массив\bin\Debug\net6.0\For + Массив.deps.json
+C:\Users\Admin\source\repos\For + Массив\For + Массив\bin\Debug\net6.0\For + Массив.runtimeconfig.json
+C:\Users\Admin\source\repos\For + Массив\For + Массив\bin\Debug\net6.0\For + Массив.dll
+C:\Users\Admin\source\repos\For + Массив\For + Массив\bin\Debug\net6.0\For + Массив.pdb
+C:\Users\Admin\source\repos\For + Массив\For + Массив\obj\Debug\net6.0\For + Массив.dll
+C:\Users\Admin\source\repos\For + Массив\For + Массив\obj\Debug\net6.0\refint\For + Массив.dll
+C:\Users\Admin\source\repos\For + Массив\For + Массив\obj\Debug\net6.0\For + Массив.pdb
+C:\Users\Admin\source\repos\For + Массив\For + Массив\obj\Debug\net6.0\For + Массив.genruntimeconfig.cache
+C:\Users\Admin\source\repos\For + Массив\For + Массив\obj\Debug\net6.0\ref\For + Массив.dll
