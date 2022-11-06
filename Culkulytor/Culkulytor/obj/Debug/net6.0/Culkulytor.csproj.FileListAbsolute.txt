@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\bin\Debug\net6.0\Culkulytor.exe
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\bin\Debug\net6.0\Culkulytor.deps.json
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\bin\Debug\net6.0\Culkulytor.runtimeconfig.json
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\bin\Debug\net6.0\Culkulytor.dll
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\bin\Debug\net6.0\Culkulytor.pdb
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\obj\Debug\net6.0\Culkulytor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\obj\Debug\net6.0\Culkulytor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\obj\Debug\net6.0\Culkulytor.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\obj\Debug\net6.0\Culkulytor.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\obj\Debug\net6.0\Culkulytor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\obj\Debug\net6.0\Culkulytor.dll
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\obj\Debug\net6.0\refint\Culkulytor.dll
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\obj\Debug\net6.0\Culkulytor.pdb
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\obj\Debug\net6.0\Culkulytor.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Culkulytor\Culkulytor\obj\Debug\net6.0\ref\Culkulytor.dll
