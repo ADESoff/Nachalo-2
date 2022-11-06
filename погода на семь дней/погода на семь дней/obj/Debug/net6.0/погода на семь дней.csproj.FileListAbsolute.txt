@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\obj\Debug\net6.0\погода на семь дней.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\obj\Debug\net6.0\погода на семь дней.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\obj\Debug\net6.0\погода на семь дней.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\obj\Debug\net6.0\погода на семь дней.AssemblyInfo.cs
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\obj\Debug\net6.0\погода на семь дней.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\bin\Debug\net6.0\погода на семь дней.exe
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\bin\Debug\net6.0\погода на семь дней.deps.json
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\bin\Debug\net6.0\погода на семь дней.runtimeconfig.json
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\bin\Debug\net6.0\погода на семь дней.dll
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\bin\Debug\net6.0\погода на семь дней.pdb
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\obj\Debug\net6.0\погода на семь дней.dll
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\obj\Debug\net6.0\refint\погода на семь дней.dll
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\obj\Debug\net6.0\погода на семь дней.pdb
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\obj\Debug\net6.0\погода на семь дней.genruntimeconfig.cache
+C:\Users\Admin\source\repos\погода на семь дней\погода на семь дней\obj\Debug\net6.0\ref\погода на семь дней.dll
