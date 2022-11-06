@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\doWail\doWail\bin\Debug\net6.0\doWail.exe
+C:\Users\Admin\source\repos\doWail\doWail\bin\Debug\net6.0\doWail.deps.json
+C:\Users\Admin\source\repos\doWail\doWail\bin\Debug\net6.0\doWail.runtimeconfig.json
+C:\Users\Admin\source\repos\doWail\doWail\bin\Debug\net6.0\doWail.dll
+C:\Users\Admin\source\repos\doWail\doWail\bin\Debug\net6.0\doWail.pdb
+C:\Users\Admin\source\repos\doWail\doWail\obj\Debug\net6.0\doWail.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\doWail\doWail\obj\Debug\net6.0\doWail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\doWail\doWail\obj\Debug\net6.0\doWail.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\doWail\doWail\obj\Debug\net6.0\doWail.AssemblyInfo.cs
+C:\Users\Admin\source\repos\doWail\doWail\obj\Debug\net6.0\doWail.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\doWail\doWail\obj\Debug\net6.0\doWail.dll
+C:\Users\Admin\source\repos\doWail\doWail\obj\Debug\net6.0\refint\doWail.dll
+C:\Users\Admin\source\repos\doWail\doWail\obj\Debug\net6.0\doWail.pdb
+C:\Users\Admin\source\repos\doWail\doWail\obj\Debug\net6.0\doWail.genruntimeconfig.cache
+C:\Users\Admin\source\repos\doWail\doWail\obj\Debug\net6.0\ref\doWail.dll
